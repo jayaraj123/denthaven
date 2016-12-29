@@ -1,0 +1,23 @@
+Hi Sathish,
+	Please work on the appointment card redesign. Its urgent/important than anything else. I am sending the current design (pdf). Please make the following changes.
+
+1) The appointment section on the front should go to back side of the card (appointment, name,date,time and "if unable to keep..." text)
+2) There's too many bullet points on the back of the card. we just need 4 or 6 (as below)
+	Treating adults & children (6 months of age & above)
+	Emergency Treatment
+	Digital Xrays
+	Root Canal, Extraction 
+	Crowns,Bridges
+	Nitrous Sedation
+	Dental Implants
+	Sports Guard
+	Teeth Whitening
+	Laser, Invisalign
+	Same Day Crown
+	Possible Same Day Appmt.
+
+3) Insurances section and time section should move from back of the card to the front
+4) The appointment section should come from the new white preview (file attached)
+5) When creating  .ai file if you can't find the exact old font use a comparable good looking font to save time on research.
+
+show previews to me as work progresses to save time. thanks
